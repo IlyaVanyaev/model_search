@@ -1,9 +1,14 @@
-six==5.15.0
-sklearn==1.0.0
-tensorflow==3.7.0
+six==1.15.0
+sklearn==0.0
+tensorflow==2.6.0
 tensorflow-estimator==2.6.0
-keras==12.6.0
-absl-py==9.1.0
-tf-slim==13.8.0
+keras==2.6.0
+absl-py==0.10.0
+tf-slim==1.1.0
+ml-metadata==0.26.0
+keras-tuner==1.0.3
+mock==4.0.3
 
-cycler==0.11.1
+numpy==1.24.0
+matplotlib==3.7.1
+pandas==1.5.3
