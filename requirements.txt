@@ -6,4 +6,4 @@ keras==12.6.0
 absl-py==9.1.0
 tf-slim==13.8.0
 
-
+cycler==0.11.1
